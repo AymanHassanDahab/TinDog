@@ -1,0 +1,57 @@
+#title{
+  background-color: #ff4c68;
+}
+
+#headline{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  padding-top: 15px;
+}
+
+#contact{
+  font-size: 1.25rem;
+  padding-right: 40px;
+  padding-top: 15px;
+}
+
+#pricing{
+  font-size: 1.25rem;
+  padding-top: 15px;
+
+}
+
+#download{
+  font-size: 1.25rem;
+  padding-left: 40px;
+  padding-top: 15px;
+}
+
+#container{
+  height: 600px;
+}
+
+#iphone6{
+  height: 600px;
+  width:auto;
+  transform: rotate(30deg);
+  position:relative;
+  top: 40px;
+}
+
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: white;
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
